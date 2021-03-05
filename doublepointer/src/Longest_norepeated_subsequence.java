@@ -1,6 +1,6 @@
 import java.util.*;
 /*
-*   给定一个长度为n的整数序列，请找出最长的部包含重复数字的连续子序列，输出它的长度。
+*   给定一个长度为n的整数序列，请找出最长的不包含重复数字的连续子序列，输出它的长度。
 *   如 1 2 2 3 5 , 答案是3
 */
 public class Longest_norepeated_subsequence {
