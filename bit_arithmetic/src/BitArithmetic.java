@@ -12,5 +12,4 @@ public class BitArithmetic {
             System.out.print(n >> k & 1);
         }
     }
-
 }
