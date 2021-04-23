@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HighPrecision/HighPrecision.iml" filepath="$PROJECT_DIR$/HighPrecision/HighPrecision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrefixPlus/PrefixPlus.iml" filepath="$PROJECT_DIR$/PrefixPlus/PrefixPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithm.iml" filepath="$PROJECT_DIR$/.idea/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit_arithmetic/bit_arithmetic.iml" filepath="$PROJECT_DIR$/bit_arithmetic/bit_arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doublepointer/doublepointer.iml" filepath="$PROJECT_DIR$/doublepointer/doublepointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/halfsearch/halfsearch.iml" filepath="$PROJECT_DIR$/halfsearch/halfsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mergesort/mergesort.iml" filepath="$PROJECT_DIR$/mergesort/mergesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quicksort/quicksort.iml" filepath="$PROJECT_DIR$/quicksort/quicksort.iml" />
+    </modules>
+  </component>
+</project>
